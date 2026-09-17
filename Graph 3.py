@@ -36,6 +36,9 @@ plt.axhline(
     label="Average = 6.9 g/cm³"
 )
 
+# Title
+plt.title("Penny Density Measurements (g/cm^3)")
+
 # Axis labels
 plt.xlabel("measurements")
 plt.ylabel("Density (g/cm³)")
@@ -49,7 +52,7 @@ plt.xticks(
 # Y-axis range
 plt.ylim(0, 10)
 
-# Add legend
+# Legend
 plt.legend()
 
 # Show chart
