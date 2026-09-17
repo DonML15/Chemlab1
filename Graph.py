@@ -1,4 +1,4 @@
-#This code produces the bar graph for the measurements in the measurements lab.
+#This code produces the bar graph for the Graduated Cylinder measurements in the measurements lab.
 
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,3 +1,4 @@
+#this is the code that produces the 3rd graph (of the penny measured densities)
 import matplotlib.pyplot as plt
 import numpy as np
 
