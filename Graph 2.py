@@ -1,4 +1,4 @@
-#This code produces a bar graph for the second data (with volumetric pipette)
+#This code produces a bar graph for the second data of densities (with volumetric pipette)
 
 import numpy as np
 import matplotlib.pyplot as plt
